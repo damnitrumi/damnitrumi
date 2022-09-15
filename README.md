@@ -1,4 +1,4 @@
-## Oi, eu sou o Guilherme, mas meio que assino tudo como Rumi
+## Oi, eu sou o Guilherme
 
 <!--
 **damnitrumi/damnitrumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
