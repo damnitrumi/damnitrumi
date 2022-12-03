@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style> 
+  img svg {
+    fill: white;
+  }
+</style>
+
 <div align="center">
   <a href="https://github.com/damnitrumi">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=damnitrumi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rumi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rumi-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rumi-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rumi-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="fill:white">
+  <img align="center" alt="Rumi-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
   <img align="center" alt="Rumi-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">         
           
           
